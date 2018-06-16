@@ -1,0 +1,14 @@
+*.debug
+*.release
+*.dbg
+*.rls
+*.swp
+*.bak
+*.old
+*.deleted
+*.delete
+*.del
+*.cppproj
+*.componentinfo.xml
+Debug/
+Release/
